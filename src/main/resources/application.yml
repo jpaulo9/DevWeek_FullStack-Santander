@@ -6,7 +6,7 @@ server:
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: postgres: // qglkreehzumvjv : d6b9dfce9ae6b7ab3ac22a3e97d8b2fd4f08a5c036530f4c0fd032e2a59a508f @ ec2-3-212-75-25.compute-1.afmazona68.com : 5432 / dunbijn9m
+    url: postgres://qglkreehzumvjv:d6b9dfce9ae6b7ab3ac22a3e97d8b2fd4f08a5c036530f4c0fd032e2a59a508f @ ec2-3-212-75-25.compute-1.afmazona68.com:5432/dunbijn9m
     username: qglkreehzumvjv
     password: d6b9dfce9ae6b7ab3ac22a3e97d8b2fd4f08a5c036530f4c0fd032e2a59a508f
   jpa:
